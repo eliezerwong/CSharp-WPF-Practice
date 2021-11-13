@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\bin\Debug\netcoreapp3.1\Directories and Files.exe
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\bin\Debug\netcoreapp3.1\Directories and Files.deps.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\bin\Debug\netcoreapp3.1\Directories and Files.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\bin\Debug\netcoreapp3.1\Directories and Files.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\bin\Debug\netcoreapp3.1\Directories and Files.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\bin\Debug\netcoreapp3.1\Directories and Files.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\obj\Debug\netcoreapp3.1\Directories and Files.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\obj\Debug\netcoreapp3.1\Directories and Files.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\obj\Debug\netcoreapp3.1\Directories and Files.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\obj\Debug\netcoreapp3.1\Directories and Files.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\obj\Debug\netcoreapp3.1\Directories and Files.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\obj\Debug\netcoreapp3.1\Directories and Files.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Directories and Files\obj\Debug\netcoreapp3.1\Directories and Files.genruntimeconfig.cache

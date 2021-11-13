@@ -1,0 +1,13 @@
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\bin\Debug\netcoreapp3.1\Sales Receipts.exe
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\bin\Debug\netcoreapp3.1\Sales Receipts.deps.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\bin\Debug\netcoreapp3.1\Sales Receipts.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\bin\Debug\netcoreapp3.1\Sales Receipts.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\bin\Debug\netcoreapp3.1\Sales Receipts.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\bin\Debug\netcoreapp3.1\Sales Receipts.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\obj\Debug\netcoreapp3.1\Sales Receipts.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\obj\Debug\netcoreapp3.1\Sales Receipts.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\obj\Debug\netcoreapp3.1\Sales Receipts.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\obj\Debug\netcoreapp3.1\Sales Receipts.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\obj\Debug\netcoreapp3.1\Sales Receipts.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\obj\Debug\netcoreapp3.1\Sales Receipts.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\HW 1 - Review Material\Sales Receipts\obj\Debug\netcoreapp3.1\Sales Receipts.genruntimeconfig.cache
