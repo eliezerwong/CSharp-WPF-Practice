@@ -1,0 +1,21 @@
+﻿<Window x:Class="Problem2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Problem2"
+        mc:Ignorable="d"
+        Title="Dog Api" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Label Content="Dogs Dogs Dogs" HorizontalAlignment="Center" Margin="0,25,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="40"/>
+        <Label Content="Enter a breed of dog: " HorizontalAlignment="Left" Margin="73,108,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDog" HorizontalAlignment="Left" Margin="73,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Height="23"/>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="73,182,0,0" VerticalAlignment="Top" IsDefault="True" Click="btnSearch_Click"/>
+        <Image x:Name="imgDog" HorizontalAlignment="Left" Height="268" Margin="400,108,0,0" VerticalAlignment="Top" Width="319"/>
+        <Button x:Name="btnClose" Content="Search" HorizontalAlignment="Left" Margin="73,466,0,0" VerticalAlignment="Top" IsCancel="True" Click="btnClose_Change"/>
+
+    </Grid>
+</Window>

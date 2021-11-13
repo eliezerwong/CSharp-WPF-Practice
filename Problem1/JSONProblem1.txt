@@ -1,0 +1,25 @@
+﻿"A": {
+	"Name": "The Winston",
+	"Menu": "Chambongs",
+	"Location": "Main Street"
+	}
+
+"B": {
+	"Name": "The Mont",
+	"Menu":[
+		"Sooner Swirl", 
+		"Cheese Fries",
+		"Magarita"],
+	"Location": "Classen Blvd"
+	}
+
+"C": {
+	"Name": ["The Winston", 
+						"The Mont"],
+	"Menu": ["Chambongs",
+						"Sooner Swirl",
+						"Cheese Fries",
+						"Magarita"],
+	"Location": ["Main Street",
+						"Classen Blvd"]
+	}
