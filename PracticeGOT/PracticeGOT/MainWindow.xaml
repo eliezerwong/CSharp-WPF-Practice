@@ -1,0 +1,16 @@
+﻿<Window x:Class="PracticeGOT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticeGOT"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblName" Content="" HorizontalAlignment="Left" Margin="45,51,0,0" VerticalAlignment="Top" Height="27" Width="110" Background="#FFF0F0F0"/>
+        <TextBlock x:Name="txtQuote" HorizontalAlignment="Left" Margin="45,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="286" Width="245" Background="#FFEAEAEA"/>
+        <Button x:Name="btnExport" Content="Export" HorizontalAlignment="Left" Margin="348,372,0,0" VerticalAlignment="Top" IsDefault="True" Click="btnExport_Click"/>
+        <Button x:Name="btnGet" Content="Get" HorizontalAlignment="Left" Margin="348,323,0,0" VerticalAlignment="Top" Click="btnGet_Click"/>
+
+    </Grid>
+</Window>
