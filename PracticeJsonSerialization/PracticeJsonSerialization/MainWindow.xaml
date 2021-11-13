@@ -1,0 +1,15 @@
+﻿<Window x:Class="PracticeJsonSerialization.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticeJsonSerialization"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="cboPlatform" HorizontalAlignment="Left" Margin="86,90,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cboPlatform_SelectionChanged"/>
+        <ListBox x:Name="lstGames" Margin="400,0,0,0" SelectionChanged="lstGames_SelectionChanged"/>
+        <Button x:Name="btnExport" Content="Export" HorizontalAlignment="Left" Margin="86,152,0,0" VerticalAlignment="Top" Click="btnExport_Click"/>
+
+    </Grid>
+</Window>
