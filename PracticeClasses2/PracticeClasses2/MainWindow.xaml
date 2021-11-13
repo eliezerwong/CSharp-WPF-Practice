@@ -1,0 +1,23 @@
+﻿<Window x:Class="PracticeClasses2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticeClasses2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstToys" Margin="400,0,0,0" SelectionChanged="lstToys_SelectionChanged"/>
+        <Label Content="Manufacturer" HorizontalAlignment="Left" Margin="50,64,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtManu" HorizontalAlignment="Left" Margin="178,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="50,87,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="178,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="50,110,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="178,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Image" HorizontalAlignment="Left" Margin="50,133,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtImage" HorizontalAlignment="Left" Margin="178,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="51,217,0,0" VerticalAlignment="Top" Click="btnAdd_Click"/>
+        <Image x:Name="imgBX" HorizontalAlignment="Left" Height="163" Margin="178,194,0,0" VerticalAlignment="Top" Width="174"/>
+
+    </Grid>
+</Window>
