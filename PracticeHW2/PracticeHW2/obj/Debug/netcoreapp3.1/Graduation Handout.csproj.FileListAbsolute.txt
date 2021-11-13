@@ -1,0 +1,19 @@
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\bin\Debug\netcoreapp3.1\Graduation Handout.exe
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\bin\Debug\netcoreapp3.1\Graduation Handout.deps.json
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\bin\Debug\netcoreapp3.1\Graduation Handout.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\bin\Debug\netcoreapp3.1\Graduation Handout.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\bin\Debug\netcoreapp3.1\Graduation Handout.dll
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\bin\Debug\netcoreapp3.1\Graduation Handout.pdb
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout_MarkupCompile.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout_MarkupCompile.lref
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout.g.resources
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout.dll
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout.pdb
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW2\PracticeHW2\obj\Debug\netcoreapp3.1\Graduation Handout.genruntimeconfig.cache
