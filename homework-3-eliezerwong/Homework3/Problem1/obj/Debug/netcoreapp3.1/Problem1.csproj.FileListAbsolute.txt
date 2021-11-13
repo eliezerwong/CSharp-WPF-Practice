@@ -1,0 +1,22 @@
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\bin\Debug\netcoreapp3.1\Problem1.exe
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\bin\Debug\netcoreapp3.1\TV Show Data.txt
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\bin\Debug\netcoreapp3.1\Problem1.deps.json
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\bin\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\bin\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\ShowDetailsWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1_MarkupCompile.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1_MarkupCompile.lref
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\ShowDetailsWindow.baml
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1.g.resources
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-3-eliezerwong\Homework3\Problem1\obj\Debug\netcoreapp3.1\Problem1.genruntimeconfig.cache
