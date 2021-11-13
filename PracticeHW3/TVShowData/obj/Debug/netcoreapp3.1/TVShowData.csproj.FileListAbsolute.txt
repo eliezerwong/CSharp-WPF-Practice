@@ -1,0 +1,20 @@
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\bin\Debug\netcoreapp3.1\TVShowData.exe
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\bin\Debug\netcoreapp3.1\TVShowData.deps.json
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\bin\Debug\netcoreapp3.1\TVShowData.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\bin\Debug\netcoreapp3.1\TVShowData.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\bin\Debug\netcoreapp3.1\TVShowData.dll
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\bin\Debug\netcoreapp3.1\TVShowData.pdb
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData_MarkupCompile.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData_MarkupCompile.lref
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData.g.resources
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData.dll
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData.pdb
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\obj\Debug\netcoreapp3.1\TVShowData.genruntimeconfig.cache
+C:\Users\eliez\source\repos\MIS-3033\Practice\PracticeHW3\TVShowData\bin\Debug\netcoreapp3.1\TV Show Data.txt
