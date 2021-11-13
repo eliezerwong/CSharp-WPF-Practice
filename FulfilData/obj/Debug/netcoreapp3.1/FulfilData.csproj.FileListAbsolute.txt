@@ -1,0 +1,5 @@
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\Homework2\FulfilData\obj\Debug\netcoreapp3.1\FulfilData.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\Homework2\FulfilData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\Homework2\FulfilData\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\Homework2\FulfilData\obj\Debug\netcoreapp3.1\FulfilData_MarkupCompile.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\Homework2\FulfilData\obj\Debug\netcoreapp3.1\FulfilData_MarkupCompile.lref

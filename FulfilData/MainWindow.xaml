@@ -1,0 +1,23 @@
+﻿<Window x:Class="FulfilData.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FulfilData"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Use Button to open Data Set" HorizontalAlignment="Center" Margin="0,28,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="258,181,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="29,172,0,0" Text="State most fulfilled for both M and F" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="114"/>
+        <TextBlock HorizontalAlignment="Left" Margin="229,172,0,0" Text="State most fulfilled for M" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="97"/>
+        <TextBlock HorizontalAlignment="Left" Margin="445,175,0,0" Text="State most fulfilled for F" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="98"/>
+        <TextBlock HorizontalAlignment="Left" Margin="624,172,0,0" Text="All States with mean higher than or equal to 8" TextWrapping="Wrap" VerticalAlignment="Top" Height="34" Width="138"/>
+        <ListBox x:Name="lstBoth" Margin="10,217,647,49"/>
+        <ListBox x:Name="lstM" Margin="191,217,465,49"/>
+        <ListBox x:Name="lstF" Margin="400,217,257,49"/>
+        <ListBox x:Name="lstOver8" Margin="624,217,33,49"/>
+        <Button Content="Open File" HorizontalAlignment="Center" Margin="0,92,0,0" VerticalAlignment="Top" Height="51" Width="76" Click="Button_Click"/>
+
+    </Grid>
+</Window>
