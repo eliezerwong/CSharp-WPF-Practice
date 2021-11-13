@@ -1,0 +1,42 @@
+[
+  {
+    "vin": "KMHGH4JH6DU355882",
+    "make": "GMC",
+    "color": "Blue",
+    "year": 1994,
+    "model": "2500 Club Coupe",
+    "sale_price": "$26137.46 "
+  },
+  {
+    "vin": "1FTEW1CM4CF093211",
+    "make": "Chevrolet",
+    "color": "Blue",
+    "year": 1967,
+    "model": "Corvette",
+    "sale_price": "$32921.56 "
+  },
+  {
+    "vin": "5N1AT2MK5FC690706",
+    "make": "Jeep",
+    "color": "Blue",
+    "year": 1992,
+    "model": "Cherokee",
+    "sale_price": "$35566.37 "
+  },
+  {
+    "vin": "1G6AT5S32F0468503",
+    "make": "Chevrolet",
+    "color": "Blue",
+    "year": 1963,
+    "model": "Corvette",
+    "sale_price": "$31350.96 "
+  },
+  {
+    "vin": "JA4AD2A37EZ133901",
+    "make": "Mercury",
+    "color": "Blue",
+    "year": 1987,
+    "model": "Cougar",
+    "sale_price": "$15812.64 "
+  }
+]
