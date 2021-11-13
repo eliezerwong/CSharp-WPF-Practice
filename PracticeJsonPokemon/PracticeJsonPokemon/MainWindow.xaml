@@ -1,0 +1,17 @@
+﻿<Window x:Class="PracticeJsonPokemon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticeJsonPokemon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtHeight" HorizontalAlignment="Left" Margin="95,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtWeight" HorizontalAlignment="Left" Margin="95,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Image x:Name="imgSprite" HorizontalAlignment="Left" Height="100" Margin="95,157,0,0" VerticalAlignment="Top" Width="100"/>
+        <ComboBox x:Name="cboName" HorizontalAlignment="Left" Margin="315,67,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cboName_SelectionChanged"/>
+        <Button x:Name="btnFlip" Content="Flip" HorizontalAlignment="Left" Margin="315,147,0,0" VerticalAlignment="Top" IsDefault="True" Click="btnFlip_Click"/>
+
+    </Grid>
+</Window>
